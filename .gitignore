@@ -48,8 +48,6 @@ docs/_build
 .DS_Store
 
 # project-specific
-output
-gutenberg-metadata.json
-gutenberg-dammit-files
 *.zip
 *.gz
+.ipynb_checkpoints/
